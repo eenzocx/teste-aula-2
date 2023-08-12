@@ -26,3 +26,8 @@ Console.Beep ();
 Thread.Sleep (5000);
 Console.WriteLine ("acredito que viver seja algo incrivel não é??");
 Console. ForegroundColor = ConsoleColor.White;
+Thread.Sleep (8000);
+Console.Clear();
+//vai apagar tudo gerado anteriormente e irá começar um novo diálogo
+Thread.Sleep (5000);
+Console.WriteLine ("é isso paizão flw fake");
